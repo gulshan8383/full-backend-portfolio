@@ -1,0 +1,112 @@
+@import"../../App.scss";
+.maindivsec{
+    width: 700px;
+    height: 350px;
+    margin: auto;
+    box-shadow: 3px 3px 25px orange;
+
+    @include tablet{
+        max-width: 800px;
+        margin-top: 120px;
+    }
+
+    @include mobile{
+        width: 400px;
+        height: 475px;
+       
+     }
+
+     @include mintab{
+        max-width: 700px;
+    }
+    
+ 
+   
+  
+   
+  
+    
+    
+
+  
+   
+}
+
+.first{
+    background-color: white;
+    height: 350px;
+    color: black;
+    border-radius: 5px;
+
+    @include mobile{
+        height: 475px;
+       
+     }
+   
+    
+
+    .dusradiv{
+        border-radius: 5px;
+        height: 190px;
+        background-color: #7E4A9C;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+
+        @include mobile{
+           height: 200px;
+            
+           
+         }
+       
+    }
+
+    .image{
+        width: 300px;
+        height: 185px;
+        border-radius: 10%;
+
+        
+        @include mobile{
+            height: 180px;
+            width: 210px;
+             
+            
+          }
+    }
+}
+
+.descdiv{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    gap: 20px;
+    padding: 15px;
+
+    .name{
+        font-weight: bold;
+        
+
+        
+        @include mobile{
+            font-size: 40px;
+            font-family: sans-serif;
+            font-weight: bold;
+             
+            
+          }
+
+    }
+    
+    .descrip{
+        
+        
+    @include mobile{
+        font-size: 17px;
+         
+        
+      }
+
+      }
+}
