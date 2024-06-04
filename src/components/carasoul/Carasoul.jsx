@@ -43,26 +43,27 @@ const Carasoul = () => {
   );
 }
 
+
 const newdata = [
   {
     Name: `SELF PORTFOLIO`,
     img: `/web1.jpg`,
-    desc: `I'm UI/UX Developer and I'M freelancer and i'm using React js, Scss, Javascript, Jquey, MySql, if you can create website then contact me. in my colledge days i'm participate my activity and win. In hackthon i'm participate 3 times and win the trophy 2 times.`
+    desc: `Explore my portfolio showcasing diverse projects in web development, from dynamic websites to innovative applications. With a focus on clean design and efficient coding, my work highlights creativity and technical proficiency. Dive into my projects to see my skills in action and contact me for collaboration opportunities.`
   },
   {
     Name: `EDUCATION`,
     img: `/web2.jpg`,
-    desc: `I'm Complete my 10th and 12th in "C.B.S.E". My gradution complete in 2023 B.TECH (COMPUTER SCIENCE ENGINERRING) FROM MAHARISHI DAYANAND UNIVERSITY, ROHTAK. inmy colledge life im learn different types of computer languages javascript react frontend database etc. `
+    desc: `Gulshan Kumar, a 2023 B.Tech graduate in Computer Science Engineering, completed 10th and 12th grade under the CBSE board. Driven and dedicated, Gulshan brings a solid educational foundation and a passion for technology to the field of computer science. `
   },
   {
     Name: `SKILLS`,
     img: `/web3.jpg`,
-    desc: `My computer skills is I'm UI/UX Designer, Frontend developer, javascript developer, rectjs developer, i'm good in teamwork, i'm very dedicated to my work, i'm very friendy behaviour man. In present time i'm learn database, backend lenguages in future goes to mernstack developer   `
+    desc: `I'm a MERN stack developer with expertise in creating dynamic and responsive web applications. My portfolio showcases projects built with MongoDB, Express.js, React, and Node.js, highlighting my skills in full-stack development. Explore my work to see innovative solutions and efficient coding practices. Contact me for collaboration opportunities.`
   },
   {
     Name: `SUMIT MEHENDI ART`,
     img: `/web2.jpg`,
-    desc: `My client sumit and he was mehendi designer. and i'm create website for my client all infomation and design of mehendi are available. my client is happy to see my work. anyone need you business to online market then contact me. i will give you good discounts.  `
+    desc: `I recently created SumitMehendiArt.com, showcasing beautiful mehendi designs through a dynamic, responsive website. As a Frontend developer, this project highlights my skills in MongoDB, Express.js, React, and Node.js. Explore my portfolio for more projects and see my expertise in action. `
   },
 ]
 // hello world
