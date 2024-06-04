@@ -30,8 +30,8 @@ const Carasoul = () => {
                 <img src={d.img} alt="" className='image  rounded-full' />
               </div>
               <div className='descdiv'>
-                <p className='name text-[40px]'>{d.Name}</p>
-                <p className='descrip text-3xl'>{d.desc}</p>
+                <p className='name text-[30px]'>{d.Name}</p>
+                <p className='descrip text-md'>{d.desc}</p>
               </div>
             </div>
           ))}
